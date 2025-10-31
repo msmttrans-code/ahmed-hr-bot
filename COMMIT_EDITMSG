@@ -1,0 +1,8 @@
+Enhance chatbot to support both Arabic and English languages
+
+Update overview, features, and recent changes in replit.md to reflect bilingual support for Arabic and English, including language detection, Arabic numeral handling, and language persistence. Also, update the default server port to 3000.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 36bfb5c8-7f61-4777-b7b7-db0b858de99e
+Replit-Commit-Checkpoint-Type: full_checkpoint
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/4cbd6822-85fc-475a-a04b-ddc9eb7e026d/36bfb5c8-7f61-4777-b7b7-db0b858de99e/sUKVCpz
